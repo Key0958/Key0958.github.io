@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #67b0e4;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #008080;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+}
+
+h2 {
+  color: #008080;
+}
+
+.place {
+  background: white;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  position: relative;
+}
+
+img {
+  width: 300px;
+  border-radius: 8px;
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+
+footer {
+  background-color: #008080;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
